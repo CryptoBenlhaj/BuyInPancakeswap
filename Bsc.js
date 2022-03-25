@@ -6,7 +6,7 @@ const secret = require('./secret')
 //npm install prompt-sync
 //node snipe.js
 
-// CHOSES A CHANGER
+// 
 const privateKey = secret["private_key"]// استدعاء المفتاح السري الخاص بك
 const myAddress = secret["public_key"] // عنوان محفظتك
 
