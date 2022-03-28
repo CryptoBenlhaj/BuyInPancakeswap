@@ -1,3 +1,11 @@
+/*نسأل الله عز وجل أن يوفقنا و إياكم
+
+:  قناتنا على اليوتيوب 
+CryptoMind | كريبتومايند
+https://www.youtube.com/channel/UCIiwuaQxxtwqAzVXMDGGXew
+
+كل ما نتشاركه معك من اكواد و خوارزميات ، هي مفتوحة المصدر يمكنك استعمالها و لما لا تطويرها. اجتهد ، ثابر ، ساعد الناس ، واعلم ان الرزاق هو الله
+*/
 const ethers = require('ethers');
 const prompt = require('prompt-sync')({sigint: true});
 const secret = require('./secret')
